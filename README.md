@@ -1,6 +1,6 @@
 # WeatherWhiz
 
-**WeatherWhiz** is a modern React-based web application that displays real-time weather data for cities around the globe. It utilizes the OpenWeatherMap API to fetch current weather conditions and showcases them with an elegant and user-friendly interface powered by Material UI.
+**WeatherWhiz** is a modern React-based web application that displays real-time weather data for cities around the globe. It utilises the OpenWeatherMap API to fetch current weather conditions and showcases them with an elegant and user-friendly interface powered by Material UI.
 
 
 ## Preview
@@ -13,16 +13,12 @@
 - **Icons**: @mui/icons-material
 - **API Integration**: OpenWeatherMap API
 
----
-
 ## Features
 
 - Search weather by city name
 -  Real-time temperature, humidity, wind speed, and weather description
 -  Clean and responsive UI using Material UI
 -  Dynamic weather icons based on condition
-
----
 
 ## Key Learnings
 - Fetching and handling live data from external APIs (OpenWeatherMap)
